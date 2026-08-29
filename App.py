@@ -87,4 +87,4 @@ def recommend_movies():
 
 if __name__ == "__main__":
     print("Static Folder:", app.static_folder)
-    app.run(debug=True)
+    app.run(debug=False)
