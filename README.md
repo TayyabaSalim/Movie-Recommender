@@ -5,7 +5,7 @@ An end-to-end **Data Analytics and Content-Based Recommendation System** develop
 ## Project Overview
 
 The project combines **exploratory data analysis, data visualization, interactive dashboards, and recommendation techniques** into a single analytics application.
-
+ 
 ### Exploratory Data Analysis
 
 * Performed data inspection, cleaning, and preprocessing
